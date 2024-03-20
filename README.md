@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Cloud Native Application Building and Web Development.
 - 💞️ I’m looking to collaborate on software development, machine learning and website development projects.
 - 📫 Email : shivanshu.dwivedi@trincoll.edu
-- LinkedIn : https://www.linkedin.com/in/shivanshu-dwivedi-50059884
+- LinkedIn : https://www.linkedin.com/in/shivanshudwivedi
 
 
 <!---
