@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivanshu Dwivedi</h1>
-<h3 align="center">Next Genius Scholar - Trinity College || Thomas Holland Scholar || Computer Science & Physics student || Machine Learning Research Assistant - Trinity College</h3>
+<h3 align="center">Next Genius Scholar - Trinity College || SWE Intern at Radical AI || Thomas Holland Scholar || Computer Science & Physics student || Machine Learning Research Assistant - Trinity College</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshudwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshudwivedi" /> </p>
 
